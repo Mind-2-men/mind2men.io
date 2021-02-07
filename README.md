@@ -1,2 +1,2 @@
-# mind2men.io
+# mind2men.org
 Mind 2 men website
